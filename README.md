@@ -1,5 +1,20 @@
 # Covid-19-Visualization-Using-Plotly
 
+## Libraries used:
+• Numpy
+
+• Pandas
+
+• Numpy
+
+• Matplotlib
+
+• Plotly
+
+• Plotly Express
+
+• Folium
+
 ## State-wise Cases :
 ![newplot](https://user-images.githubusercontent.com/65092287/100257286-c4852b80-2f6b-11eb-9399-9748d0275589.png)
 
@@ -10,7 +25,7 @@
 ## Map view of Indian States : 
 ![image](https://user-images.githubusercontent.com/65092287/100259178-ee3f5200-2f6d-11eb-8ad9-257cfa2e4f1d.png)
 
-## Country Wise Incrase in Total Cases :
+## Country Wise Comparison Increase in Total Cases :
 ![newplot (5)](https://user-images.githubusercontent.com/65092287/100257275-c2bb6800-2f6b-11eb-9dff-9c6ed3d94156.png)
 
 ![newplot (6)](https://user-images.githubusercontent.com/65092287/100257273-c222d180-2f6b-11eb-9f9b-389094a612dc.png)
